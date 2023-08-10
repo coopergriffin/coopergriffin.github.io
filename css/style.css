@@ -1,0 +1,95 @@
+
+ul{
+	margin-top: 0px
+}
+
+body {
+	font-family: Bookman; 
+	font-size: 16px; 
+	color: black;
+}
+
+a.hello{
+	color: white;
+	transition: color 2s;
+
+}
+
+a{
+	color: blue;
+}
+
+img{
+	float:right;
+}
+
+h1 {
+	/*background-color: #333333;*/
+	color: black;
+	font-size: 48px;
+	text-align: center;
+	letter-spacing: 0;
+	/*text-decoration: underline;*/
+	font-style: bold;
+	line-height: 1; 
+	letter-spacing: 0px;
+	text-transform: capitalize;
+	font-weight: 400;
+	margin: 0px 0 0px 0;
+}
+
+header {
+	border: 10px solid orange;
+	border-radius: 10px;
+	background-color: lightblue;
+	/*background-image: url(1400w.jpeg);*/
+	/*background-repeat: no-repeat;
+	background-position: center top;*/
+	/*background-size: cover;*/ 
+	/*margin: 20px 0 20px 0;*/
+	padding: 3vh 0% 3vh 0%;
+	background-attachment: fixed;
+	/*transition: background-color 2s;*/
+	color: white;
+}
+
+p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h2{
+	margin-bottom: 0px;
+}
+
+
+
+footer{
+	margin-bottom: 5vh;
+}
+
+/*header:hover { 
+	background-color: #333333;
+}*/
+
+/*body{
+	background-image: url(1400w.jpeg);
+}*/
+
+
+/*a{
+	color: blue;
+	transition: color 2s;
+
+}*/
+
+a:hover {
+	color: #111118;
+}
+
+nav{
+	margin-top: 5vh;
+	color: black;
+	text-align: center;
+}
+
