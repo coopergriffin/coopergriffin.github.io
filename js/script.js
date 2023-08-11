@@ -8,8 +8,10 @@ function updateBackgroundColor() {
   // Calculate the scroll percentage
   const scrollPercentage = (window.scrollY / (document.documentElement.scrollHeight - window.innerHeight)) * 100;
   
+  
   // Calculate the index of the color based on scroll percentage
-  const colorIndex = Math.floor(scrollPercentage *0.2);
+  const colorIndex = Math.floor(scrollPercentage / (100 / (colors.length-1)));
+  console.log(colorIndex)
   
   // Update the background color
   body.style.backgroundColor = colors[colorIndex];
