@@ -1,7 +1,7 @@
 const body = document.body;
 
 // Define an array of colors you want to cycle through
-const colors = ['#fff', '#fff', '#ffe', '#ffd', '#ffc'];
+const colors = ['#fff', '#fff', '#ffe', '#ffe', '#ffd'];
 
 // Function to update the background color based on scroll position
 function updateBackgroundColor() {
