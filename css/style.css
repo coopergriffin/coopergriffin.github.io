@@ -7,7 +7,13 @@ body {
 	font-family: Bookman; 
 	font-size: 16px; 
 	color: black;
+	transition: background-color 0.5s ease; /* Smooth transition for background color change */
 }
+
+.content {
+	/* Your content styling here */
+	padding: 20px;
+  }
 
 a.hello{
 	color: white;
