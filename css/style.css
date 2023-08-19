@@ -27,7 +27,7 @@ a{
 
 img{
 	float:right;
-	border: 0.5vw solid #e8630a;
+	border: 0.5vw solid orange;
 	border-radius: 50%;
 }
 
@@ -47,9 +47,9 @@ h1 {
 }
 
 header {
-	border: 10px solid #e8630a;
+	border: 10px solid orange;
 	border-radius: 10px;
-	background-color: #b6e1e0;
+	background-color: lightblue;
 	/*background-image: url(1400w.jpeg);*/
 	/*background-repeat: no-repeat;
 	background-position: center top;*/
@@ -68,7 +68,6 @@ p{
 
 h2{
 	margin-bottom: 0px;
-	color: #b6e1e0;
 }
 
 
