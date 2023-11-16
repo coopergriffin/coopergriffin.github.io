@@ -2,4 +2,4 @@
 
 Portfolio / Resume Developer Technical Website
 
-coopergriffin.github.io 
+https://coopergriffin.github.io 
